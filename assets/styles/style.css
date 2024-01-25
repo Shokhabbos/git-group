@@ -1,1 +1,8 @@
-@import "./normalize.css";/*# sourceMappingURL=style.css.map */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
